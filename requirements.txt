@@ -341,9 +341,9 @@ requests==2.28.1 \
     #   -r requirements.in
     #   commoncode
     #   requests-kerberos
-requests-kerberos==0.14.0 \
-    --hash=sha256:cda9d1240ae5392e081869881c8742d0e171fd6a893a7ac0875db2748e966fd1 \
-    --hash=sha256:da74ea478ccd8584de88092bdcd17a7c29d494374a340d1d8677189903c9ac6a
+requests-kerberos==0.15.0 \
+    --hash=sha256:437512e424413d8113181d696e56694ffa4259eb9a5fc4e803926963864eaf4e \
+    --hash=sha256:ba9b0980b8489c93bfb13854fd118834e576d6700bfea3745cb2e62278cd16a6
     # via -r requirements.in
 saneyaml==0.5.2 \
     --hash=sha256:d6074f1959041342ab41d74a6f904720ffbcf63c94467858e0e22e17e3c43d41 \
